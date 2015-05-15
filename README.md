@@ -1,5 +1,6 @@
-# cucumberjs-example
-my attempt at using cucumber js for testing as a lightweight framework
+# BDD Testing in Javascript/NodeJs
+
+An attempt at using cucumber js for testing as a lightweight framework
 then a jasmine attempt at creating the same test
 then finally a mocha attempt
 
