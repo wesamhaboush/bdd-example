@@ -7,8 +7,9 @@ then finally a mocha attempt
 
 * Install required packages specified in package.json:
 
+```
        npm install
-
+```
 
 # Running the tests
 
@@ -16,20 +17,26 @@ then finally a mocha attempt
 
 * To run default:
 
+```
      ./node_modules/cucumber/bin/cucumber.js
-
+```
 * For help:
 
+```
      ./node_modules/cucumber/bin/cucumber.js -h
-
+```
 
 * for default run:
 
+```
      ./node_modules/cucumber/bin/cucumber.js -f json
+```
 
 * For summary:
 
+```
      ./node_modules/cucumber/bin/cucumber.js -f summary
+```
 
 ## For Mocha
 
@@ -37,8 +44,9 @@ then finally a mocha attempt
 
 * just type `mocha` at root of project:
 
+```
       mocha 
-
+```
 
 ## For Jasmine
 
@@ -46,4 +54,6 @@ then finally a mocha attempt
 
 * just type 'jasmine' at root of project:
 
+```
       jasmine
+```
