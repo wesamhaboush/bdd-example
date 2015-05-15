@@ -1,7 +1,7 @@
 {
-  "name": "rest-test-frisby",
+  "name": "rest-test",
   "version": "1.0.0",
-  "description": "experiment in testing rest apis in frisby as an example of a lightweight technology",
+  "description": "experiment in testing rest apis in cucumber as an example of a lightweight technology",
   "main": "server.js",
   "scripts": {
     "test": "test",
@@ -11,6 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "cucumber": "^0.4.8",
-    "frisby": "^0.8.5"
+    "httptest": "^0.1.8",
+    "jasmine": "^2.3.1",
+    "sync-request": "^2.0.1"
   }
 }
