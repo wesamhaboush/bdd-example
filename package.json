@@ -1,0 +1,16 @@
+{
+  "name": "rest-test-frisby",
+  "version": "1.0.0",
+  "description": "experiment in testing rest apis in frisby as an example of a lightweight technology",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "wesam@coldbreeze.net",
+  "license": "MIT",
+  "dependencies": {
+    "cucumber": "^0.4.8",
+    "frisby": "^0.8.5"
+  }
+}
